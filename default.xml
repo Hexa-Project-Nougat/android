@@ -521,6 +521,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project path="vendor/hexa" name="Hexa-Project/android_vendor_hexa" groups="notdefault,tradefed" remote="github" revision="aosp-7.0.0" />
+  <project path="vendor/hexa" name="Hexa-Project/android_vendor_hexa" remote="github" revision="aosp-7.0.0" />
 
 </manifest>
