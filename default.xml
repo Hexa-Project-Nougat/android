@@ -522,5 +522,7 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="vendor/hexa" name="Hexa-Project/android_vendor_hexa" remote="github" revision="aosp-7.0.0" />
+  <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" remote="github" revision="staging/cm-14.0" />
+  <project path="prebuilts/cmsdk" name="CyanogenMod/android_prebuilts_cmsdk" clone-depth="1" revision="master" remote="github" />
 
 </manifest>
