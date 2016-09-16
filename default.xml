@@ -17,7 +17,7 @@
   <project path="build/kati" name="Team-OctOS/platform_build_kati" groups="pdk,tradefed" remote="github" revision="aosp-7.0" />
   <project path="art" name="Team-OctOS/platform_art" groups="pdk" remote="github" revision="aosp-7.0" />
   <project path="vendor/hexa" name="Hexa-Project/android_vendor_hexa" remote="github" revision="aosp-7.0"/>
-  <project path="external/busybox" name="TeamOctOS/platform_external_busybox" remote="github" revision="aosp-7.0" />
+  <project path="external/busybox" name="Team-OctOS/platform_external_busybox" remote="github" revision="aosp-7.0" />
   <project path="frameworks/base" name="Hexa-Project/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="github" revision="aosp-7.0" />
   <project path="frameworks/native" name="Team-OctOS/platform_frameworks_native" groups="pdk" remote="github" revision="aosp-7.0" />
   <project path="frameworks/support" name="Team-OctOS/platform_frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="github" revision="aosp-7.0" />
