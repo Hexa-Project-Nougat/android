@@ -21,7 +21,7 @@
   <project path="external/busybox" name="Team-OctOS/platform_external_busybox" remote="github" revision="aosp-7.0" />
   <project path="frameworks/base" name="Hexa-Project/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="github" revision="aosp-7.0" />
   <project path="frameworks/native" name="Hexa-Project/android_frameworks_native" groups="pdk" remote="github" revision="aosp-7.0" />
-  <project path="frameworks/support" name="Team-OctOS/platform_frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="github" revision="aosp-7.0" />
+  <project path="frameworks/support" name="Hexa-Project/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="github" revision="aosp-7.0" />
   <project path="hardware/libhardware" name="Hexa-Project/android_hardware_libhardware" groups="pdk" remote="github" revision="aosp-7.0" />
   <project path="packages/apps/Settings" name="Hexa-Project/android_packages_apps_Settings" groups="pdk-fs" remote="github" revision="aosp-7.0"/>
   <project path="system/sepolicy" name="Hexa-Project/android_system_sepolicy" groups="pdk" remote="github" revision="aosp-7.0" />
