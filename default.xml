@@ -26,6 +26,7 @@
   <project path="packages/apps/Settings" name="Hexa-Project/android_packages_apps_Settings" groups="pdk-fs" remote="github" revision="aosp-7.0"/>
   <project path="system/sepolicy" name="Hexa-Project/android_system_sepolicy" groups="pdk" remote="github" revision="aosp-7.0" />
   <project path="system/core" name="Hexa-Project/android_system_core" groups="pdk" remote="github" revision="aosp-7.0" />
+  <project path="system/extras/su" name="Hexa-Project/android_system_extras_su" remote="github" revision="aosp-7.0" />
   
   <!-- END HEXA-PROJECT -->
   
