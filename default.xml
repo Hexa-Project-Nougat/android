@@ -21,6 +21,8 @@
   <project path="frameworks/support" name="Hexa-Project/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="github" revision="aosp-7.1" />
   <project path="hardware/libhardware" name="Hexa-Project/android_hardware_libhardware" groups="pdk" remote="github" revision="aosp-7.1" />
   <project path="packages/apps/Settings" name="Hexa-Project/android_packages_apps_Settings" groups="pdk-fs" remote="github" revision="aosp-7.1"/>
+  <project path="system/sepolicy" name="Hexa-Project/android_system_sepolicy" groups="pdk" remote="github" revision="aosp-7.1" />
+  <project path="system/extras/su" name="CyanogenMod/android_system_extras_su" remote="github" revision="cm-14.1"/>
   <project path="system/core" name="Hexa-Project/android_system_core" groups="pdk" remote="github" revision="aosp-7.1" />
   
   <!-- END OF HEXA-PROJECT -->
@@ -528,7 +530,6 @@
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/nvram" name="platform/system/nvram" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
-  <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" />
   <project path="system/tools/aidl" name="platform/system/tools/aidl" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/tpm" name="platform/system/tpm" />
   <project path="system/update_engine" name="platform/system/update_engine" />
