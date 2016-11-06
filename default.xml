@@ -25,8 +25,6 @@
   <project path="system/extras/su" name="CyanogenMod/android_system_extras_su" remote="github" revision="cm-14.1"/>
   <project path="system/core" name="Hexa-Project/android_system_core" groups="pdk" remote="github" revision="aosp-7.1" />
   <project path="external/skia" name="Team-OctOS/platform_external_skia" groups="pdk,qcom_msm8x26" remote="github" revision="aosp-7.1" />
-  <project path="external/DUtils" name="crdroidandroid/android_external_DUtils" remote="github" revision="7.1" />
-  <project path="packages/apps/DUI" name="crdroidandroid/android_packages_apps_DUI" remote="github" revision="7.1" />
   
   <!-- END OF HEXA-PROJECT -->
 
