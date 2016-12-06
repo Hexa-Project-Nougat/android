@@ -18,6 +18,9 @@
            sync-c="true"
            sync-j="4" />
 
+   <remote  name="bitbucket"
+            fetch="https://bitbucket.org" />
+
   <!-- AOSP Projects -->
 
   <project path="build" name="Hexa-Project/android_build" groups="pdk,tradefed">
@@ -498,5 +501,6 @@
   <project path="packages/apps/Masquerade" name="PureNexusProject/android_packages_apps_Masquerade" remote="github" revision="master" />
 
   <include name="snippets/cm.xml" />
+  <include name="snippets/ubertc.xml" />
 
 </manifest>
