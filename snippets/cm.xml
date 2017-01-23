@@ -123,5 +123,5 @@
   <!-- Hexa-Project Addition -->
   <project path="external/DUtils" name="crdroidandroid/android_external_DUtils" remote="github" revision="7.1" />
   <project path="packages/apps/DUI" name="KangDroidAOSP/android_packages_apps_DUI" remote="github" revision="cm-14.1" />
-  <project path="packages/apps/OTAUpdates" name="KangDroid/OTAUpdates" remote="private" revision="stable" />
+  <project path="packages/apps/OTAUpdates" name="KangDroid/OTAUpdates" remote="github" revision="stable" />
 </manifest>
