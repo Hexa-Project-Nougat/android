@@ -1,4 +1,4 @@
-LineageOS
+Hexa-OS
 ===========
 
 Submitting Patches
