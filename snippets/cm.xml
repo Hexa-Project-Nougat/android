@@ -123,4 +123,6 @@
   <project path="packages/apps/OTAUpdates" name="KangDroid/OTAUpdates" remote="github" revision="stable" />
   <!-- interfacer -->
   <project name="substratum/interfacer" path="packages/apps/ThemeInterfacer" remote="github" revision="n-rootless" />
+  <!-- OmniJaws -->
+  <project name="ResurrectionRemix/packages_services_OmniJaws" path="packages/services/OmniJaws" remote="github" revision="nougat" />
 </manifest>
