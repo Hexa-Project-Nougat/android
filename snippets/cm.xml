@@ -126,4 +126,14 @@
   <project name="substratum/interfacer" path="packages/apps/ThemeInterfacer" remote="github" revision="n-rootless" />
   <!-- OmniJaws -->
   <project name="ResurrectionRemix/packages_services_OmniJaws" path="packages/services/OmniJaws" remote="github" revision="nougat" />
+
+  <!-- Infrastructure -->
+  <project path="lineage/crowdin" name="LineageOS/cm_crowdin" groups="infra" revision="master" />
+  <project path="lineage/cve" name="LineageOS/cve_tracker" groups="infra" revision="master" />
+  <project path="lineage/jenkins" name="LineageOS/hudson" groups="infra" revision="master" />
+  <project path="lineage/mirror" name="LineageOS/mirror" groups="infra" revision="master" />
+  <project path="lineage/stats" name="LineageOS/tribble-tracker" groups="infra" revision="master" />
+  <project path="lineage/updater" name="LineageOS/lineageos_updater" groups="infra" revision="master" />
+  <project path="lineage/website" name="LineageOS/www" groups="infra" revision="master" />
+  <project path="lineage/wiki" name="LineageOS/lineage_wiki" groups="infra" revision="master" />
 </manifest>
