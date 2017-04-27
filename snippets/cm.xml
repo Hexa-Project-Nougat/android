@@ -128,6 +128,7 @@
   <project name="ResurrectionRemix/packages_services_OmniJaws" path="packages/services/OmniJaws" remote="github" revision="nougat" />
 
   <!-- Infrastructure -->
+  <project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />
   <project path="lineage/crowdin" name="LineageOS/cm_crowdin" groups="infra" revision="master" />
   <project path="lineage/cve" name="LineageOS/cve_tracker" groups="infra" revision="master" />
   <project path="lineage/jenkins" name="LineageOS/hudson" groups="infra" revision="master" />
